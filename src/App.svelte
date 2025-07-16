@@ -55,7 +55,7 @@
 
 <div class="container">
   <div class="header-img">
-    <img src={mar} />
+    <img src={mar} alt="a picture of Maggie"/>
   </div>
   <!-- <h1>About Me</h1> -->
   <h1>Hi, I'm {name}!</h1>
