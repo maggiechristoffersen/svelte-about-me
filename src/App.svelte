@@ -15,35 +15,35 @@
   let cardData = [
     {
       image:
-        "https://raw.githubusercontent.com/maggiechristoffersen/svelte-about-me/gh-pages/src/assets/duolingo.jpg",
+        "https://raw.githubusercontent.com/maggiechristoffersen/svelte-about-me/refs/heads/main/src/assets/duolingo.jpg",
       title: "Language Learner",
       description:
         "I began studying German my freshman year of high school and really fell in love with it! I advanced my skills enough to skip one of the levels at my high school, and have spent a lot of time on Duolingo honing my knowledge of the language. When I was a freshman in college, I took an intensive course in the language that (proven by a four-hour exam) brought me up to fluency! At school, I'm minoring in the language and hope to use my skills in Germany someday!",
     },
     {
       image:
-        "https://raw.githubusercontent.com/maggiechristoffersen/svelte-about-me/gh-pages/src/assets/bookshelf.JPG",
+        "https://raw.githubusercontent.com/maggiechristoffersen/svelte-about-me/refs/heads/main/src/assets/bookshelf.JPG",
       title: "Avid Reader",
       description:
         "Reading is one of my favorite hobbies! I read nearly every day and try to get through (at least) one book per week. My favorite book of all time is Little Women by Louisa May Alcott. I visited her historic home a couple of years ago and had so much fun! I'm also, of course, a fan of the 2019 movie. I'm currently reading Blue Sisters by Coco Mellors, which is about four sisters and follows similar themes, although it's more modern overall!",
     },
     {
       image:
-        "https://raw.githubusercontent.com/maggiechristoffersen/svelte-about-me/gh-pages/src/assets/dance.jpg",
+        "https://raw.githubusercontent.com/maggiechristoffersen/svelte-about-me/refs/heads/main/src/assets/dance.jpg",
       title: "Dance Hobbyist",
       description:
         "Like many people, I started ballet classes when I was three years old. I stuck with it, though, and dance is still one of my favorite hobbies! I spent my high school years heavily focusing on practicing jazz, ballet, and tap dance, but have expanded a lot since coming to college! I've tried out lyrical, contemporary, and musical theatre classes, as well as swing, jive, and Bollywood! I love trying out these new styles of dance, it makes me feel connected with the world around me in a unique way.",
     },
     {
       image:
-        "https://raw.githubusercontent.com/maggiechristoffersen/svelte-about-me/gh-pages/src/assets/kwkwdc.jpg",
+        "https://raw.githubusercontent.com/maggiechristoffersen/svelte-about-me/refs/heads/main/src/assets/kwkwdc.jpg",
       title: "Code Mentor",
       description:
         "I started at Kode With Klossy in 2019 at the Washington, D.C. camp! From there, I did camps in 2020 and 2021 before becoming an IA in 2022. This is my fourth summer as an IA for KWK. I've also worked with Girls in Electrical Engineering and Computer Science (GEECS) at the University of Michigan on an outreach committee to teach young women in the local area about the fundamentals of coding!",
     },
     {
       image:
-        "https://raw.githubusercontent.com/maggiechristoffersen/svelte-about-me/gh-pages/src/assets/sims4.png",
+        "https://raw.githubusercontent.com/maggiechristoffersen/svelte-about-me/gh-pages/src/assets/marge.JPG",
       title: "Sims 4 Fanatic",
       description:
         "I love playing the Sims 4! When I was a kid, I spent hours upon hours playing dolls. My imagination is one of my greatest assets! Nowadays, I spend time playing the Sims 4 instead of playing with barbie dolls, which gives me a fun way to unwind after long and stressful work periods at school!",
